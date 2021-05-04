@@ -1,4 +1,7 @@
 - 👋 Hi, everyone
+- 👨🏻‍🎓 I am currently a college student
+- 📖 I am interested in javascript, nodejs and deno
+
 
 <!---
 Ostap-Sulyk/Ostap-Sulyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
