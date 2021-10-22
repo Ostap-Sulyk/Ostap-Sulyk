@@ -1,6 +1,6 @@
 - 👋 Hi, everyone
 - 👨🏻‍🎓 I am currently a college student
-- 📖 I am interested in javascript, nodejs and deno
+- 📖 I am interested in java and planning to become backend developer!
 
 
 <!---
